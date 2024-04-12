@@ -1,29 +1,28 @@
+<h1 align="center">
+──「 ᴛʜɪs ʙᴏᴛ ɪs ɴᴏᴛ ᴍɪɴᴇ 」──
+
 <h2 align="center">
-    ─「 ˹𝐁ʟᴀᴄᴋ ꭙ 𝐌ᴜsɪᴄ˼ ♪ 」─
-
+    ──「 ʟᴏᴠᴇʀ༒︎ᴍᴜsɪᴄ 」──
 </h2>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ㅤ+𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝐁𝐋𝐀𝐂𝐊+𝐌𝐔𝐒𝐈𝐂+𝐑𝐄𝐏𝐎;ㅤ+𝚃𝙷𝙸𝚂+𝙸𝚂+𝙰+𝙰𝙳𝚅𝙰𝙽𝙲𝙴+𝙼𝚄𝚂𝙸𝙲+𝙱𝙾𝚃+🔥;𝙿𝙾𝚆𝙴𝚁𝙴𝙳+𝙱𝚈+☞+𝐁𝐋𝐀𝐂𝐊+𝐌𝐔𝐒𝐈𝐂+👑)](https://github.com/BLACKLOVER15/BLACK_MUSIC)
-
-
-
 <p align="center">
-  <img src="https://te.legra.ph/file/4b91ba6ee72587d382c61.jpg">
+  <img src="https://te.legra.ph/file/590f5404cdc7840b63a1c.jpg">
 </p>
-
-
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗙𝗢𝗥𝗞+𝗧𝗛𝗜𝗦+𝗥𝗘𝗣𝗢+𝗕𝗘𝗙𝗢𝗥𝗘+𝗗𝗘𝗣𝗟𝗢𝗬)
-
-## 🥳 𝗘𝗡𝗝𝗢𝗬 🥳
-
-✅ 𝐍𝐨 𝐋𝐚𝐠 💥 𝐒𝐮𝐩𝐞𝐫𝐅𝐚𝐬𝐭 🌟 𝐕𝐂 ️𝐌𝐮𝐬𝐢𝐜 🔊𝐏𝐥𝐚𝐲𝐞𝐫✌️🔥
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
-
-<h3> 𝗡𝗜𝗖𝗛𝗘 𝗛𝗘𝗥𝗢𝗞𝗨 𝗞𝗘 𝗕𝗨𝗧𝗧𝗢𝗡 𝗗𝗘𝗣𝗟𝗢𝗬 𝗞𝗔𝗥 𝗟𝗘 🤧 </h3>
 </h3>
 
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/code663/arohi2"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-cyan?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/BLACKLOVER15/BLACK_MUSIC"> <img src="https://graph.org/file/7758e15f135e166b8637d.jpg" width="520" height="198.45"/></a></p>
+
+━━━━━━━━━━━━━━━━━
+
+<h2 align="center"> ──「 ᴅᴇᴍᴏ ʀᴏʙᴏᴛ 」──</h2>
+<i>ᴀʟʟ ᴛʜᴇ ᴄᴜsᴛᴏᴍɪsᴀᴛɪᴏɴs ᴀʀᴇ ᴀᴠᴀɪʟᴀʙʟᴇ. ᴊᴜsᴛ ᴄʜᴇᴄᴋᴏᴜᴛ ᴛʜᴇ ʀᴇᴘᴏ ᴀɴᴅ ᴠᴀʀɪᴀʙʟᴇs.</i>
+<p align="center"><a href="https://t.me/LOVER_X_MUSIC_BOT"> <img src="https://img.shields.io/badge/Check-Demo%20Robot-black?style=for-the-badge&logo=Telegram" width="220" height="39"/></a></p>
+
+
+<h2 align="center"> ──「 sᴜᴘᴘᴏʀᴛ 」──</h2>
+<p align="center"><a href="https://t.me/IND_PAWAN"> <img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a></p>
+<p align="center"><a href="https://t.me/mr_editx"> <img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a></p>
+

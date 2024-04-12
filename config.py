@@ -16,7 +16,7 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
 OWNER_USERNAME = getenv("OWNER_USERNAME","BADNAM_MAR_GAYA")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "MusicScam_Black_Bot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "BADNAM_MUSIC_BOT")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME" , "BlackMusic")
 # ---------------------------------------------------------
@@ -38,7 +38,7 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 LOGGER_ID = int(getenv("LOGGER_ID", -1002108904207))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 6950353753))
+OWNER_ID = int(getenv("OWNER_ID", 6919037846))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 

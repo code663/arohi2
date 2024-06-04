@@ -14,9 +14,9 @@ API_HASH = getenv("API_HASH")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","BADNAM_MAR_GAYA")
+OWNER_USERNAME = getenv("OWNER_USERNAME","PAWAN_IS_BACK")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "BADNAM_MUSIC_BOT")
+BOT_USERNAME = getenv("BOT_USERNAME" , "LOVER_X_MUSIC_BOT")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME" , "BlackMusic")
 # ---------------------------------------------------------
@@ -38,7 +38,7 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 LOGGER_ID = int(getenv("LOGGER_ID", -1002108904207))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 6919037846))
+OWNER_ID = int(getenv("OWNER_ID", 6329937391))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 
@@ -67,8 +67,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/friends_kiDuniya")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/frind_x_zone")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/angel_world11")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+QIP2mpPLSxUyNGJl")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
